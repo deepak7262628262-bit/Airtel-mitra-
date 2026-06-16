@@ -142,11 +142,5 @@
         "key": "d22",
         "expirydate": "16-07-2026",
         "Allowoffline": false
-    },
-{
-        "device_id": "c1e55ee6a2f2f538",
-        "key": "d23",
-        "expirydate": "15-07-2026",
-        "Allowoffline": false
     }
 ]
