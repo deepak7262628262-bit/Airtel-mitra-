@@ -298,5 +298,17 @@
         "key": "d47",
         "expirydate": "13-08-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "4f67bdca8b2d01fe",
+        "key": "d48",
+        "expirydate": "30-08-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "5573dd1860a0a304",
+        "key": "d49",
+        "expirydate": "30-08-2026",
+        "Allowoffline": false
     }
 ]
